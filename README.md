@@ -8,7 +8,7 @@ I'm building my skills in Go, working with APIs and databases, and developing pr
 
 - **Languages:** Go, C++, Python, JavaScript
 - **Databases:** PostgreSQL, SQL
-- **Tools:** Git, GitHub
+- **Tools:** Git, GitHub, GitLab
 - **Areas of interest:** Backend development, REST APIs, database design, software testing
 
 ### Featured Projects
@@ -19,6 +19,6 @@ I'm building my skills in Go, working with APIs and databases, and developing pr
 
 ### Currently
 
-- Improving my backend development skills with Go.
-- Practicing software design, testing, and database development.
-- Looking for opportunities to grow as a backend developer.
+- Improving my backend development skills with Go
+- Practicing software design, testing and database development
+- Looking for opportunities to grow as a backend developer
